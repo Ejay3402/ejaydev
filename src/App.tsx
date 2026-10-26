@@ -1,4 +1,4 @@
-import ejaylogo from './assets/ejaylogo.png'
+import ejaylogo from './assets/ejaylogo.jpg'
 import './styles/index.scss';
 
 function App() {
